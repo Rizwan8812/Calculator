@@ -1,5 +1,6 @@
 # Calculator
 I developed this calculator using HTML, CSS.
+<br>
 This is my First Internship Project
 <br>
-Developed By: Mohammad Rizwan
+<b>Developed By: Mohammad Rizwan</b>
